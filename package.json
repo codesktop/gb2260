@@ -6,6 +6,6 @@
   "private": true,
   "dependencies": {
     "express": "^4.17.1",
-    "gb2260-x": "^1.0.4"
+    "gb2260-x": "^1.1.4"
   }
 }
