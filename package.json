@@ -1,11 +1,13 @@
 {
   "name": "gb2260",
-  "main": "index.js",
   "version": "1.0.1",
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "express": "^4.17.1",
-    "gb2260-x": "^1.1.4"
+    "@minisode/gb2260": "^1.0.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
   }
 }
