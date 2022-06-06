@@ -4,7 +4,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@minisode/gb2260": "^1.0.5",
+    "@statstic/gb2260": "^1.0.1",
     "express": "^4.18.1"
   },
   "devDependencies": {
