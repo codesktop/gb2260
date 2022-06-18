@@ -4,7 +4,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@statstic/gb2260": "^1.0.1",
+    "@tossdev/gb2260": "^1.0.2",
     "express": "^4.18.1"
   },
   "devDependencies": {
