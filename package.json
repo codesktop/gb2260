@@ -1,0 +1,12 @@
+{
+  "name": "gb2260",
+  "version": "1.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "@tossdev/gb2260": "^1.0.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
